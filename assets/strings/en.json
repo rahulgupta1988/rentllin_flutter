@@ -1,0 +1,31 @@
+{
+  "select_language": "Select Language",
+  "english": "English",
+  "dutch": "Dutch",
+  "add_profile": "Add me!",
+  "change_language": "Change Language",
+
+
+  "password": "Password",
+  "username": "username",
+  "login": "login",
+  "remeber_me": "Remember username",
+  "stay_login": "Stay logged in",
+
+  "remeber_me": "Remember username",
+  "stay_login": "Stay logged in",
+
+  "carinout": "Car in/out",
+  "menu_setting": "Setting",
+  "menu_switchuser": "Switch User",
+  "menu_logout": "Logout",
+
+
+  "car_in": "CAR IN",
+  "car_out": "CAR OUT"
+
+
+
+
+
+}

@@ -1,0 +1,27 @@
+{
+  "select_language": "Kies taal",
+  "english": "English",
+  "dutch": "Dutch",
+  "add_profile": "Voeg mij toe!",
+  "change_language": "Verander de taal",
+
+  "password": "Wachtwoord",
+  "username": "Gebruikersnaam",
+  "login": "Log in",
+  "remeber_me": "Gebruikersnaam onthouden",
+  "stay_login": "Blijf ingelogd",
+
+  "remeber_me": "Gebruikersnaam onthouden",
+  "stay_login": "Blijf ingelogd",
+
+
+  "carinout": "Uitgeven/Innemen",
+  "menu_setting": "Instellingen",
+  "menu_switchuser": "Gebruiker wisselen",
+  "menu_logout": "Uitloggen",
+
+  "car_in": "Uitgeven",
+  "car_out": "Innemen"
+
+
+}
